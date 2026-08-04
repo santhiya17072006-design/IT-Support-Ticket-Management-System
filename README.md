@@ -1,5 +1,3 @@
-# IT Support Ticket Management System
-
 ## Project Overview
 
 IT Support Ticket Management System is a web-based application developed to manage and track technical support requests efficiently.
