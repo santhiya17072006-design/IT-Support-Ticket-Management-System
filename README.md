@@ -32,6 +32,9 @@ The system allows users to raise support tickets, track issue status, and helps 
 ## Project Structure
 
 ```text
+
+
+
 IT-Support-Ticket-Management-System
 
 ├── app.py
@@ -47,9 +50,10 @@ IT-Support-Ticket-Management-System
 │   └── admin.html
 
 └── static
+    ├── style.css
+    └── script.js
 
 ## Author
 
 Sandhiya R
-    ├── style.css
-    └── script.js
+
