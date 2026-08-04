@@ -53,9 +53,12 @@ IT-Support-Ticket-Management-System
 │   └── admin.html
 
 └── static
+    ├── style.css
+    └── script.js
+
+
+
 
 Author
 
 Sandhiya R
-    ├── style.css
-    └── script.js
