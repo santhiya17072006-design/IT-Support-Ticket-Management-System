@@ -57,8 +57,7 @@ IT-Support-Ticket-Management-System
     └── script.js
 
 
-
-
 Author
 
 Sandhiya R
+
