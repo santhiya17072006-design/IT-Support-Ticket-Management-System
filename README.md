@@ -4,7 +4,7 @@
 
 IT Support Ticket Management System is a web-based application developed to manage and track technical support requests efficiently.
 
-The system helps users create support tickets and allows administrators to manage and resolve issues.
+The system allows users to raise support tickets, track issue status, and helps administrators manage and resolve technical issues.
 
 ## Features
 
