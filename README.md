@@ -25,9 +25,9 @@ The system allows users to raise support tickets, track issue status, and helps 
 - JavaScript
 - SQLite Database
 
-## Project Screenshots
+### Home Page
 
-(Add screenshots here)
+![Home Page](screenshots/home-page.png)
 
 ## Project Structure
 
