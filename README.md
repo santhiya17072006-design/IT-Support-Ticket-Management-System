@@ -29,7 +29,7 @@ The system allows users to raise support tickets, track issue status, and helps 
 
 ### Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](home-page.png)
 
 ## Project Structure
 
@@ -40,6 +40,9 @@ IT-Support-Ticket-Management-System
 ├── database.py
 ├── requirements.txt
 ├── README.md
+
+├── screenshots
+│   └── home-page.png
 
 ├── templates
 │   ├── index.html
@@ -52,10 +55,3 @@ IT-Support-Ticket-Management-System
 └── static
     ├── style.css
     └── script.js
-
-
-
-
-Author
-
-Sandhiya R
