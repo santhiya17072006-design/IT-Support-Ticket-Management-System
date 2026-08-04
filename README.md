@@ -25,6 +25,8 @@ The system allows users to raise support tickets, track issue status, and helps 
 - JavaScript
 - SQLite Database
 
+## Project Screenshots
+
 ### Home Page
 
 ![Home Page](screenshots/home-page.png)
@@ -32,14 +34,12 @@ The system allows users to raise support tickets, track issue status, and helps 
 ## Project Structure
 
 ```text
-
-
-
 IT-Support-Ticket-Management-System
 
 ├── app.py
 ├── database.py
 ├── requirements.txt
+├── README.md
 
 ├── templates
 │   ├── index.html
@@ -53,7 +53,9 @@ IT-Support-Ticket-Management-System
     ├── style.css
     └── script.js
 
-## Author
+
+
+
+Author
 
 Sandhiya R
-
